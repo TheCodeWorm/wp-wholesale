@@ -1,1 +1,1 @@
-# wp-wholesale
+# wp wholesale
